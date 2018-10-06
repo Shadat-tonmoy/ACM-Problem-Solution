@@ -1,0 +1,6 @@
+a = int(raw_input())
+b = int(raw_input())
+result = divmod(a,b)
+print(result[0])
+print(result[1])
+print(result)

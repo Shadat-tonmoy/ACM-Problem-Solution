@@ -1,38 +1,32 @@
-#include<bits/stdc++.h>
+#include <cmath>
+#include <cstdio>
+#include <iostream>
 using namespace std;
+
+int totnum(int X,int N,int num)
+{
+    printf("x %d n %d num %d\n",X,N,num);
+    if(pow(num,N)<X)
+    {
+        printf("Less now calling...");
+        return totnum(X,N,num+1)+totnum(X-pow(num,N),N,num+1);
+    }
+    else if(pow(num,N)==X)
+    {
+        printf("Equal now calling...");
+        return 1;
+    }
+    else
+    {
+        printf("Else now calling...");
+        return 0;
+    }
+}
 
 int main()
 {
-    long long int i,j,k,l,m,n,tc,c,a,leftSum,rightSum,num[100005],left[100005],sum;
-    bool found;
-    while(cin>>tc)
-    {
-        for(l=1;l<=tc;l++)
-        {
-            cin>>n;
-            sum=0;
-            found = false;
-            for(i=0;i<n;i++)
-            {
-                cin>>num[i];
-                left[i]=sum;
-                sum+=num[i];
-            }
-            for(i=0;i<n;i++)
-            {
-                leftSum = left[i];
-                rightSum = (left[n-1]+num[n-1]) - (left[i]+num[i]);
-                if(leftSum==rightSum)
-                {
-                    found = true;
-                    break;
-                }
-            }
-            if(found)
-                cout<<"YES"<<endl;
-            else cout<<"NO"<<endl;
-
-        }
-    }
+    int X,N;
+    cin>>X>>N;
+    cout<<totnum(X,N,1);
     return 0;
 }
