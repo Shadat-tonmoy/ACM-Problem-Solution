@@ -7,6 +7,14 @@ int main() {
 	{
 	    for(x=1;x<=tc;x++)
 	    {
+			cin>>n>>k;
+			for(i=0;i<n;i++)
+				cin>>num[i];
+			sort(num,num+n);
+			for(i=n-1;i>=n-k;i--)
+				cout<<num[i]<<" ";
+			cout<<endl;
+
 	        
 	        
 	        
