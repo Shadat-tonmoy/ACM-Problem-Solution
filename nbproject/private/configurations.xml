@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df root="." name="0">
+      <df name="CodeChef Problem">
+        <in>Atoms in the Lab.cpp</in>
+        <in>Counting Bits.cpp</in>
+        <in>Easy Sorting.cpp</in>
+        <in>Strange operations.cpp</in>
+        <in>current - Copy.cpp</in>
+      </df>
+      <df name="CodeForces Problems">
+        <in>110A-Nearly Lucky Number.cpp</in>
+        <in>112A-Petya and Strings.cpp</in>
+        <in>118A-String Task.cpp</in>
+        <in>118B - Present from Lena.cpp</in>
+        <in>119A - Epic Game.cpp</in>
+        <in>122A-Lucky Divisions.cpp</in>
+        <in>131A- cAPS lOCK.cpp</in>
+        <in>133A-HQ9+.cpp</in>
+        <in>136A - Presents.cpp</in>
+        <in>141A - Amusing Joke.cpp</in>
+        <in>144A - Arrival of the General - Copy.cpp</in>
+        <in>144A - Arrival of the General.cpp</in>
+        <in>148A - Insomnia cure.cpp</in>
+        <in>149A - Business trip.cpp</in>
+        <in>151A - Soft Drinking.cpp</in>
+        <in>155A - I_love_%username%.cpp</in>
+        <in>158A - Next Round.cpp</in>
+        <in>158B - Taxi.cpp</in>
+        <in>160A-Twins.cpp</in>
+        <in>18A - Triangle.cpp</in>
+        <in>1A-Theatre Square.cpp</in>
+        <in>200B - Drinks.cpp</in>
+        <in>208A - Dubstep.cpp</in>
+        <in>214A - System of Equations.cpp</in>
+        <in>226A-Stones on the Table.cpp</in>
+        <in>228A - Is your horseshoe on the other hoof.cpp</in>
+        <in>230A - Dragons.cpp</in>
+        <in>230B - T-primes.cpp</in>
+        <in>231A-Team.cpp</in>
+        <in>236A-Boy or Girl.cpp</in>
+        <in>255B - Code Parsing.cpp</in>
+        <in>25A - IQ test.cpp</in>
+        <in>263A-Beautiful Matrix.cpp</in>
+        <in>266B - Queue at the School.cpp</in>
+        <in>268A - Games.cpp</in>
+        <in>268B - Buttons.cpp</in>
+        <in>270A - Fancy Fence.cpp</in>
+        <in>281A-Word Capitalization.cpp</in>
+        <in>282A-Bit++.cpp</in>
+        <in>313A - Ilya and Bank Account.cpp</in>
+        <in>318A - Even Odds.cpp</in>
+        <in>327A - Flipping Game.cpp</in>
+        <in>327B - Hungry Sequence.cpp</in>
+        <in>330A - Cakeminator.cpp</in>
+        <in>339A-Helpful Maths.cpp</in>
+        <in>339B - Xenia and Ringroad.cpp</in>
+        <in>344A - Magnets.cpp</in>
+        <in>349A - Cinema Line.cpp</in>
+        <in>368B - Sereja and Suffixes.cpp</in>
+        <in>379A - New Year Candles.cpp</in>
+        <in>37A - Towers.cpp</in>
+        <in>389B - Fox and Cross.cpp</in>
+        <in>405A - Gravity Flip.cpp</in>
+        <in>41A-Translation.cpp</in>
+        <in>427A - Police Recruits.cpp</in>
+        <in>431A - Black Square.cpp</in>
+        <in>432A - Choosing Teams.cpp</in>
+        <in>439A - Devu, the Singer and Churu, the Joker.cpp</in>
+        <in>441A - Valera and Antique Items.cpp</in>
+        <in>443A - Anton and Letters.cpp</in>
+        <in>448A - Rewards.cpp</in>
+        <in>451A - Game With Sticks.cpp</in>
+        <in>454A - Little Pony and Crystal Mine.cpp</in>
+        <in>456A - Laptops.cpp</in>
+        <in>459A - Pashmak and Garden.cpp</in>
+        <in>459B-Pashmak and Flowers.cpp</in>
+        <in>460A - Vasya and Socks.cpp</in>
+        <in>461A - Appleman and Toastman.cpp</in>
+        <in>462B - Appleman and Card Game.cpp</in>
+        <in>465B - Inbox (100500).cpp</in>
+        <in>466A - Cheap Travel.cpp</in>
+        <in>467A-George and Accommodation.cpp</in>
+        <in>467B - Fedor and New Game.cpp</in>
+        <in>469A - I Wanna Be the Guy.cpp</in>
+        <in>471A - MUH and Sticks.cpp</in>
+        <in>472A - Design Tutorial Learn from Math.cpp</in>
+        <in>474B - Worms.cpp</in>
+        <in>478A - Initial Bet.cpp</in>
+        <in>479A - Expression.cpp</in>
+        <in>486A - Calculating Function.cpp</in>
+        <in>489B - BerSU Ball.cpp</in>
+        <in>489C - Given Length and Sum of Digits....cpp</in>
+        <in>490A - Team Olympiad.cpp</in>
+        <in>492A - Vanya and Cubes.cpp</in>
+        <in>492B - Vanya and Lanterns.cpp</in>
+        <in>499B - Lecture.cpp</in>
+        <in>4A - WaterMelon.cpp</in>
+        <in>4C - Registration System.cpp</in>
+        <in>507A - Amr and Music.cpp</in>
+        <in>507B - Amr and Pins.cpp</in>
+        <in>509A - Maximum in Table.cpp</in>
+        <in>510A - Fox And Snake.cpp</in>
+        <in>513A - Game.cpp</in>
+        <in>514A - Chewbaсca and Number.cpp</in>
+        <in>519A - A and B and Chess.cpp</in>
+        <in>519B - A and B and Compilation Errors.cpp</in>
+        <in>520A - Pangram.cpp</in>
+        <in>527A - Playing with Paper.cpp</in>
+        <in>540A - Combination Lock.cpp</in>
+        <in>545B - Equidistant String.cpp</in>
+        <in>546A - Soldier and Bananas.cpp</in>
+        <in>550A - Two Substrings.cpp</in>
+        <in>551A - GukiZ and Contest.cpp</in>
+        <in>552B - Vanya and Books.cpp</in>
+        <in>556A - Case of the Zeros and Ones.cpp</in>
+        <in>558B -B - Amr and The Large Array.cpp</in>
+        <in>560A - Currency System in Geraldion.cpp</in>
+        <in>567A - Lineland Mail.cpp</in>
+        <in>569B - Inventory.cpp</in>
+        <in>570A - Elections.cpp</in>
+        <in>580A - Kefa and First Steps.cpp</in>
+        <in>581A - Vasya the Hipster.cpp</in>
+        <in>581B - Luxurious Houses.cpp</in>
+        <in>584A - Olesya and Rodion.cpp</in>
+        <in>588A - Duff and Meat.cpp</in>
+        <in>59A - Word.cpp</in>
+        <in>615A - Bulbs.cpp</in>
+        <in>617A - Elephant.cpp</in>
+        <in>61A - Ultra-Fast Mathematician.cpp</in>
+        <in>621A - Wet Shark and Odd and Even.cpp</in>
+        <in>630A - Again Twenty Five!.cpp</in>
+        <in>651B - Beautiful Paintings.cpp</in>
+        <in>652B - z-sort.cpp</in>
+        <in>659A - Round House.cpp</in>
+        <in>660A - Co-prime Array.cpp</in>
+        <in>660B - Sitting On the bus.cpp</in>
+        <in>670B - Game of Robots.cpp</in>
+        <in>672A-Summer Camp.cpp</in>
+        <in>672B-B - Different is Good.cpp</in>
+        <in>675A - Infinite Sequence.cpp</in>
+        <in>676A - Nicholas and Permutation.cpp</in>
+        <in>680B - Bear and Finding Criminals.cpp</in>
+        <in>682B - Alyona and Mex.cpp</in>
+        <in>686A - Free Ice Cream.cpp</in>
+        <in>688A - Opponents.cpp</in>
+        <in>688B - Lovely Palindromes.cpp</in>
+        <in>69A - Young Physicist.cpp</in>
+        <in>6A - Triangle.cpp</in>
+        <in>705A - Hulk.cpp</in>
+        <in>706A - Beru-taxi.cpp</in>
+        <in>707A - Brain's Photos.cpp</in>
+        <in>707B - Bakery.cpp</in>
+        <in>711A - Bus to Udayland.cpp</in>
+        <in>716A - Crazy Computer.cpp</in>
+        <in>719A - Vitya in the Countryside.cpp</in>
+        <in>71A - Way Too Long Words.cpp</in>
+        <in>721A - One-dimensional Japanese Crossword.cpp</in>
+        <in>723B - Text Document Analysis.cpp</in>
+        <in>731A - Night at the Museum - Optimum.cpp</in>
+        <in>731A - Night at the Museum.cpp</in>
+        <in>732B - Cormen --- The Best Friend Of a Man.cpp</in>
+        <in>734B - Anton and Digits.cpp</in>
+        <in>742A - Arpa’s hard exam and Mehrdad’s naive cheat.cpp</in>
+        <in>750A - New Year and Hurry.cpp</in>
+        <in>754A - Lesha and array splitting.cpp</in>
+        <in>761A - Dasha and Stairs.cpp</in>
+        <in>785A-Anton and Polyhedrons.cpp</in>
+        <in>791A - Bear and Big Brother.cpp</in>
+        <in>822A - I'm bored with life.cpp</in>
+        <in>842A - Kirill And The Game.cpp</in>
+        <in>842B - Gleb And Pizza.cpp</in>
+        <in>849A - Odds and Ends.cpp</in>
+        <in>851A - Arpa and a research in Mexican wave.cpp</in>
+        <in>938A - Word Correction.cpp</in>
+        <in>939A - Love Triangle.cpp</in>
+        <in>96A-Football.cpp</in>
+        <in>A.cpp</in>
+        <in>B.cpp</in>
+        <in>temp - Copy.cpp</in>
+      </df>
+      <df name="GeeksForGeeks Problem">
+        <df name="Interview Prep">
+          <df name="Array">
+            <in>Alternate Element of Array.cpp</in>
+            <in>Count of smaller elements.cpp</in>
+            <in>Count possible triangles.cpp</in>
+            <in>Laders in Array.cpp</in>
+            <in>Majority Element.cpp</in>
+            <in>Maximum Index.cpp</in>
+            <in>Maximum Sub Array.cpp</in>
+            <in>Min and Max Elemen in Array.cpp</in>
+            <in>Operating an Array.cpp</in>
+            <in>Remove duplicate elements from sorted Array.cpp</in>
+            <in>Reverse an Array.cpp</in>
+            <in>Rotate Array.cpp</in>
+            <in>Second Largest Element.cpp</in>
+            <in>Sum of array elements.cpp</in>
+            <in>Wave Array.cpp</in>
+            <in>template.cpp</in>
+          </df>
+          <df name="LinkedList">
+            <in>Manipulation with LinkedList.cpp</in>
+            <in>template.cpp</in>
+          </df>
+          <df name="Mathmatical">
+            <in>Add two fractions.cpp</in>
+            <in>Closest Number.cpp</in>
+            <in>Count Squares.cpp</in>
+            <in>Factorial of Number.cpp</in>
+            <in>GCD of Array.cpp</in>
+            <in>GCD of Two Numbers.cpp</in>
+            <in>Jumping Number.cpp</in>
+            <in>LCM and GCD.cpp</in>
+            <in>Print the Kth Digit.cpp</in>
+            <in>Series GP.cpp</in>
+            <in>template.cpp</in>
+          </df>
+          <df name="Puzzle">
+            <in>3 Divisors.cpp</in>
+            <in>Is Power.cpp</in>
+            <in>Is Square.cpp</in>
+            <in>Trailling Zeroes.cpp</in>
+            <in>template.cpp</in>
+          </df>
+          <df name="Stack">
+            <in>Balanced Paranthesis.cpp</in>
+            <in>template.cpp</in>
+          </df>
+          <df name="String">
+            <in>Anagram Pallindrome.cpp</in>
+            <in>Anagram String.cpp</in>
+            <in>Check for subsequence.cpp</in>
+            <in>Check if strings are rotations of each other or not.cpp</in>
+            <in>Extract Maximum.cpp</in>
+            <in>Good or Bad string.cpp</in>
+            <in>Merge two strings.cpp</in>
+            <in>Pallindrome.cpp</in>
+            <in>Reverse words in a given string Using String Class.cpp</in>
+            <in>Reverse words in a given string.cpp</in>
+            <in>Save Ironman.cpp</in>
+            <in>Sort String in Decreasing Order.cpp</in>
+            <in>URLify a given string.cpp</in>
+            <in>Upper case conversion.cpp</in>
+            <in>template.cpp</in>
+          </df>
+        </df>
+        <in>ease_the_array.cpp</in>
+        <in>even_distance_graph.cpp</in>
+        <in>even_is_greater_then_odd.cpp</in>
+        <in>find_second_largest_element.cpp</in>
+        <in>k_largest_element.cpp</in>
+        <in>kth_smallest_element.cpp</in>
+        <in>kth_smallest_element_in_matrix.cpp</in>
+        <in>minimum_product_of_k_element.cpp</in>
+        <in>move_all_negative_elements_to_end.cpp</in>
+        <in>move_all_zeros_at_the_end_(with_extra_array).cpp</in>
+        <in>move_all_zeros_at_the_end_(without_extra_array).cpp</in>
+        <in>prime_string.cpp</in>
+        <in>replace_every_array_element_by_multiplication_of_previous_and_next.cpp</in>
+        <in>rotation_count.cpp</in>
+        <in>smallest_and_second_smallest.cpp</in>
+        <in>stickler_thief.cpp</in>
+        <in>template.cpp</in>
+        <in>the_amazing_number.cpp</in>
+      </df>
+      <df name="HackerEarth">
+        <df name="DataStructures">
+          <df name="Array">
+            <in>Monk And Merry.cpp</in>
+            <in>Team Selection.cpp</in>
+            <in>tmp (copy).cpp</in>
+            <in>tmp.cpp</in>
+          </df>
+        </df>
+      </df>
+      <df name="HackerRank Problems">
+        <df name="Java">
+          <df name="bin">
+          </df>
+          <df name="src">
+          </df>
+        </df>
+        <df name="Python">
+        </df>
+        <in>ACM ICPC Team.cpp</in>
+        <in>Alternating Characters.cpp</in>
+        <in>Anagram.cpp</in>
+        <in>Angry Professor.cpp</in>
+        <in>Append and Delete.cpp</in>
+        <in>Beautiful Binary String.cpp</in>
+        <in>Beautiful Days at the Movies.cpp</in>
+        <in>Beautiful Triplets.cpp</in>
+        <in>Between Two Sets.cpp</in>
+        <in>Big Sorting.cpp</in>
+        <in>Bigger is Greater.cpp</in>
+        <in>Birthday Chocolate.cpp</in>
+        <in>Bon Appétit.cpp</in>
+        <in>Breaking the Records.cpp</in>
+        <in>Caesar Cipher.cpp</in>
+        <in>CamelCase.cpp</in>
+        <in>Castle on the Grid.cpp</in>
+        <in>Cats and a Mouse.cpp</in>
+        <in>Chocolate Feast.cpp</in>
+        <in>Circular Array Rotation.cpp</in>
+        <in>Climbing the Leaderboard.cpp</in>
+        <in>Closest Numbers - Using Merge Sort.cpp</in>
+        <in>Closest Numbers - Using Quick Sort.cpp</in>
+        <in>Closest Numbers.cpp</in>
+        <in>Connected Cells in a Grid.cpp</in>
+        <in>Correctness and the Loop Invariant.cpp</in>
+        <in>Count Luck.cpp</in>
+        <in>Counter game.cpp</in>
+        <in>Counting Valleys.cpp</in>
+        <in>Cut the sticks.cpp</in>
+        <in>Day of the Programmer.cpp</in>
+        <in>Designer PDF Viewer.cpp</in>
+        <in>Divisible Sum Pairs.cpp</in>
+        <in>Drawing Book.cpp</in>
+        <in>Electronics Shop.cpp</in>
+        <in>Encryption.cpp</in>
+        <in>Equalize the Array.cpp</in>
+        <in>Find Digits.cpp</in>
+        <in>Flipping bits.cpp</in>
+        <in>Funny String.cpp</in>
+        <in>Game of Thrones - I.cpp</in>
+        <in>Gemstones.cpp</in>
+        <in>Greedy Florist.cpp</in>
+        <in>Grid Challenge.cpp</in>
+        <in>Gridland Metro.cpp</in>
+        <in>HackerRank in a String!.cpp</in>
+        <in>Hackerland Radio Transmitters.cpp</in>
+        <in>Ice Cream Parlor.cpp</in>
+        <in>Insertion Sort - Part 1.cpp</in>
+        <in>Insertion Sort - Part 2.cpp</in>
+        <in>Intro to Tutorial Challenges.cpp</in>
+        <in>Jim and the Orders.cpp</in>
+        <in>Jumping on the Clouds Revisited.cpp</in>
+        <in>KnightL on a Chessboard.cpp</in>
+        <in>Largest Permutation.cpp</in>
+        <in>Library Fine.cpp</in>
+        <in>Lisa's Workbook.cpp</in>
+        <in>Lonely Integer.cpp</in>
+        <in>Luck Balance.cpp</in>
+        <in>Making Anagrams.cpp</in>
+        <in>Marc's Cakewalk.cpp</in>
+        <in>Mark and Toys.cpp</in>
+        <in>Mars Exploration.cpp</in>
+        <in>Max Min.cpp</in>
+        <in>Maximizing XOR.cpp</in>
+        <in>Maximum Perimeter Triangle.cpp</in>
+        <in>Mini-Max Sum.cpp</in>
+        <in>Minimum Absolute Difference in an Array.cpp</in>
+        <in>Minimum Distances.cpp</in>
+        <in>Minimum Loss.cpp</in>
+        <in>Missing Numbers.cpp</in>
+        <in>Modified Kaprekar Numbers.cpp</in>
+        <in>Organizing Containers of Balls.cpp</in>
+        <in>Pairs.cpp</in>
+        <in>Palindrome Index.cpp</in>
+        <in>Pangrams.cpp</in>
+        <in>Permuting Two Arrays.cpp</in>
+        <in>Picking Numbers.cpp</in>
+        <in>Priyanka and Toys.cpp</in>
+        <in>Queue using Two Stacks.cpp</in>
+        <in>Quicksort 1 - Partition.cpp</in>
+        <in>Repeated String.cpp</in>
+        <in>Running Time of Algorithms.cpp</in>
+        <in>Sansa and XOR.cpp</in>
+        <in>Save the Prisoner!.cpp</in>
+        <in>Separate the Numbers.cpp</in>
+        <in>Sequence Equation.cpp</in>
+        <in>Sherlock and Anagrams.cpp</in>
+        <in>Sherlock and Array.cpp</in>
+        <in>Sherlock and Squares.cpp</in>
+        <in>Sherlock and The Beast.cpp</in>
+        <in>Sherlock and the Valid String - Using Array Mapping.cpp</in>
+        <in>Sherlock and the Valid String.cpp</in>
+        <in>Simple Text Editor.cpp</in>
+        <in>Sock Merchant.cpp</in>
+        <in>Sum vs XOR.cpp</in>
+        <in>Super Reduced String.cpp</in>
+        <in>Taum and B'day.cpp</in>
+        <in>The Great XOR.cpp</in>
+        <in>The Hurdle Race.cpp</in>
+        <in>The Love-Letter Mystery.cpp</in>
+        <in>Two Characters.cpp</in>
+        <in>Two Strings.cpp</in>
+        <in>Utopian Tree.cpp</in>
+        <in>Waiter.cpp</in>
+        <in>Xor-sequence.cpp</in>
+        <in>temp.cpp</in>
+      </df>
+      <df name="LightOJ Problems">
+        <df name="Tried but not solved">
+        </df>
+        <in>1000 - Greetings from LightOJ.cpp</in>
+        <in>1001 - Opposite Task.cpp</in>
+        <in>1004 - Monkey Banana Problem.cpp</in>
+        <in>1006 - Hex-a-bonacci-TLE.cpp</in>
+        <in>1012 - Guilty Prince.cpp</in>
+        <in>1015 - Brush (I).cpp</in>
+        <in>1022 - Circle in Square.cpp</in>
+        <in>1023 - Discovering Permutations.cpp</in>
+        <in>1042 - Secret Origins.cpp</in>
+        <in>1045 - Digits of Factorial.cpp</in>
+        <in>1047 - Neighbor House.cpp</in>
+        <in>1053 - Higher Math.cpp</in>
+        <in>1069 - Lift.cpp</in>
+        <in>1080 - Binary Simulation.cpp</in>
+        <in>1082 - Array Queries.cpp</in>
+        <in>1093 - Ghajini.cpp</in>
+        <in>1107 - How Cow.cpp</in>
+        <in>1109 - False Ordering.cpp</in>
+        <in>1111 - Best Picnic Ever.cpp</in>
+        <in>1112 - Curious Robin Hood.cpp</in>
+        <in>1113 - Discover the Web.cpp</in>
+        <in>1133 - Array Simulation.cpp</in>
+        <in>1164 - Horrible Queries.cpp</in>
+        <in>1166 - Old Sorting.cpp</in>
+        <in>1182 - Parity.cpp</in>
+        <in>1202 - Bishops.cpp</in>
+        <in>1212 - Double Ended Queue.cpp</in>
+        <in>1214 - Large Division.cpp</in>
+        <in>1225 - Palindromic Numbers (II).cpp</in>
+        <in>1227 - Boiled Eggs.cpp</in>
+        <in>1231 - Coin Change (I).cpp</in>
+        <in>1294 - Positive Negative Sign.cpp</in>
+        <in>1338 - Hidden Secret!.cpp</in>
+        <in>1354 - IP Checking.cpp</in>
+        <in>1387 - Setu.cpp</in>
+        <in>1433 - Minimum Arc Distance.cpp</in>
+        <in>Guilty Prince - DFS.cpp</in>
+        <in>running.cpp</in>
+        <in>temp.cpp</in>
+        <in>workspance.cpp</in>
+      </df>
+      <df name="SPOJ Problem">
+        <in>AE00 - Rectangles.cpp</in>
+        <in>AMR12D - The Mirror of Galadriel - Copy.cpp</in>
+        <in>AMR12D - The Mirror of Galadriel.cpp</in>
+        <in>BWIDOW - Black Widow Rings.cpp</in>
+        <in>CADYDIST - Candy Distribution.cpp</in>
+        <in>CRZYSMKR - Crazy Smoker.cpp</in>
+        <in>HORRIBLE - Horrible Queries.cpp</in>
+        <in>WorkSpace - Copy.cpp</in>
+        <in>WorkSpace.cpp</in>
+      </df>
+      <df name="UVa Problems">
+        <in>0000 - Copy - Copy.cpp</in>
+        <in>0000.cpp</in>
+        <in>10009 - All Roads Lead Where.cpp</in>
+        <in>10026 - Shoemaker's Problem.cpp</in>
+        <in>10034 - Freckles.cpp</in>
+        <in>10050 - Hartals.cpp</in>
+        <in>10107.cpp</in>
+        <in>10116 - Robot Motion.cpp</in>
+        <in>10127 - Ones.cpp</in>
+        <in>10130 - SuperSale.cpp</in>
+        <in>10141.cpp</in>
+        <in>10179.cpp</in>
+        <in>10189.cpp</in>
+        <in>10200.cpp</in>
+        <in>10212 - The Last Non-zero Digit..cpp</in>
+        <in>10222.cpp</in>
+        <in>10282.cpp</in>
+        <in>10293.cpp</in>
+        <in>10295.cpp</in>
+        <in>10305 - Ordering Tasks.cpp</in>
+        <in>10311.cpp</in>
+        <in>10336 - Rank the Languages.cpp</in>
+        <in>10338.cpp</in>
+        <in>10347.cpp</in>
+        <in>10392 - Factoring Large Numbers.cpp</in>
+        <in>10409 - Copy.cpp</in>
+        <in>10409.cpp</in>
+        <in>10420.cpp</in>
+        <in>10487.cpp</in>
+        <in>10489 - Boxes of Chocolates.cpp</in>
+        <in>10490.cpp</in>
+        <in>10499.cpp</in>
+        <in>10554.cpp</in>
+        <in>10583 - Ubiquitous Religions.cpp</in>
+        <in>10608 - Friends.cpp</in>
+        <in>10611 - Copy.cpp</in>
+        <in>10611.cpp</in>
+        <in>10616 - Divisible Group Sums.cpp</in>
+        <in>1062.cpp</in>
+        <in>10650.cpp</in>
+        <in>10653 - Bombs! NO they are Mines!!.cpp</in>
+        <in>10664 - Luggage.cpp</in>
+        <in>10679 - Copy (2).cpp</in>
+        <in>10679 - Copy (Mong Ting).cpp</in>
+        <in>10679 - Copy.cpp</in>
+        <in>10679.cpp</in>
+        <in>10703.cpp</in>
+        <in>10730.cpp</in>
+        <in>10763 - Foreign Exchange.cpp</in>
+        <in>10789.cpp</in>
+        <in>10815.cpp</in>
+        <in>10855.cpp</in>
+        <in>10879.cpp</in>
+        <in>10905 - Copy.cpp</in>
+        <in>10905.cpp</in>
+        <in>10919 - Copy.cpp</in>
+        <in>10919.cpp</in>
+        <in>10948.cpp</in>
+        <in>10954 - Add All.cpp</in>
+        <in>10959 - The Party, Part I.cpp</in>
+        <in>10976.cpp</in>
+        <in>10986-Sending email.cpp</in>
+        <in>11057 - Copy.cpp</in>
+        <in>11057.cpp</in>
+        <in>11060 - Beverages.cpp</in>
+        <in>11062.cpp</in>
+        <in>11078.cpp</in>
+        <in>11150.cpp</in>
+        <in>11192.cpp</in>
+        <in>11221 - Copy.cpp</in>
+        <in>11221.cpp</in>
+        <in>11222.cpp</in>
+        <in>11228 - Transportation system.cpp</in>
+        <in>11233.cpp</in>
+        <in>11242.cpp</in>
+        <in>11247.cpp</in>
+        <in>11286.cpp</in>
+        <in>11292 - Dragon of Loowater.cpp</in>
+        <in>11340 - Copy.cpp</in>
+        <in>11340.cpp</in>
+        <in>11349.cpp</in>
+        <in>11360-Have Fun With Matrix.cpp</in>
+        <in>11389 - The Bus Driver Problem.cpp</in>
+        <in>11541.cpp</in>
+        <in>11557.cpp</in>
+        <in>11588.cpp</in>
+        <in>11608 - Copy.cpp</in>
+        <in>11608.cpp</in>
+        <in>11631 - Dark roads.cpp</in>
+        <in>11677.cpp</in>
+        <in>11713.cpp</in>
+        <in>11716.cpp</in>
+        <in>11747 - Heavy Cycle Edges.cpp</in>
+        <in>11774 .cpp</in>
+        <in>1180.cpp</in>
+        <in>11805.cpp</in>
+        <in>11824.cpp</in>
+        <in>11831 - Sticker Collector Robot.cpp</in>
+        <in>11850.cpp</in>
+        <in>11877.cpp</in>
+        <in>11878.cpp</in>
+        <in>11902 - Dominator.cpp</in>
+        <in>11917.cpp</in>
+        <in>11942 -2.cpp</in>
+        <in>11942.cpp</in>
+        <in>11945.cpp</in>
+        <in>11984.cpp</in>
+        <in>12049.cpp</in>
+        <in>12068.cpp</in>
+        <in>12149.cpp</in>
+        <in>12150.cpp</in>
+        <in>12187.cpp</in>
+        <in>12239.cpp</in>
+        <in>12243.cpp</in>
+        <in>1225 - Copy.cpp</in>
+        <in>1225.cpp</in>
+        <in>12290.cpp</in>
+        <in>1230.cpp</in>
+        <in>1237.cpp</in>
+        <in>12405.cpp</in>
+        <in>12442 - Forwarding Emails.cpp</in>
+        <in>12488.cpp</in>
+        <in>12503 - Copy.cpp</in>
+        <in>12503.cpp</in>
+        <in>12541.cpp</in>
+        <in>12543.cpp</in>
+        <in>12554.cpp</in>
+        <in>12592.cpp</in>
+        <in>1260 (2).cpp</in>
+        <in>1260.cpp</in>
+        <in>12725.cpp</in>
+        <in>12751.cpp</in>
+        <in>12798.cpp</in>
+        <in>12896.cpp</in>
+        <in>12897 - Copy.cpp</in>
+        <in>12897.cpp</in>
+        <in>12952 - Copy.cpp</in>
+        <in>12952.cpp</in>
+        <in>13012.cpp</in>
+        <in>13034.cpp</in>
+        <in>1583.cpp</in>
+        <in>160 - Factors and Factorials.cpp</in>
+        <in>195.cpp</in>
+        <in>256.cpp</in>
+        <in>260 - Il Gioco dell'X.cpp</in>
+        <in>352 - The Seasonal War.cpp</in>
+        <in>353.cpp</in>
+        <in>383 - Shipping Routes.cpp</in>
+        <in>394.cpp</in>
+        <in>406.cpp</in>
+        <in>409.cpp</in>
+        <in>409=2.cpp</in>
+        <in>414.cpp</in>
+        <in>417-Unsolved.cpp</in>
+        <in>429 - Word Transformation.cpp</in>
+        <in>439 - Knight Moves.cpp</in>
+        <in>471 - Magic Numbers.cpp</in>
+        <in>471-TLE.cpp</in>
+        <in>483.cpp</in>
+        <in>484.cpp</in>
+        <in>489.cpp</in>
+        <in>500!.cpp</in>
+        <in>514.cpp</in>
+        <in>541.cpp</in>
+        <in>543.cpp</in>
+        <in>562 - Dividing coins.cpp</in>
+        <in>567 - Risk.cpp</in>
+        <in>572 - Oil Deposits.cpp</in>
+        <in>573.cpp</in>
+        <in>575.cpp</in>
+        <in>579.cpp</in>
+        <in>583.cpp</in>
+        <in>627 - The Net.cpp</in>
+        <in>644 - Immediate Decodability.cpp</in>
+        <in>644.cpp</in>
+        <in>661.cpp</in>
+        <in>671 - Copy.cpp</in>
+        <in>671.cpp</in>
+        <in>673 - Copy.cpp</in>
+        <in>673.cpp</in>
+        <in>674 - Coin Change.cpp</in>
+        <in>686.cpp</in>
+        <in>725 - unsolved - Copy.cpp</in>
+        <in>725 - unsolved.cpp</in>
+        <in>725.cpp</in>
+        <in>727.cpp</in>
+        <in>755 - 487--3279.cpp</in>
+        <in>762 - We Ship Cheap.cpp</in>
+        <in>784 - Maze Exploration.cpp</in>
+        <in>793 - Network Connections.cpp</in>
+        <in>821 - Page Hopping.cpp</in>
+        <in>871 - Counting Cells in a Blob.cpp</in>
+        <in>895.cpp</in>
+        <in>902 - Copy-TLE.cpp</in>
+        <in>902 - Copy.cpp</in>
+        <in>902.cpp</in>
+        <in>908 - Re-connecting Computer Sites.cpp</in>
+        <in>924 - Spreading The News.cpp</in>
+        <in>993 - Product of digits - Copy.cpp</in>
+        <in>993 - Product of digits.cpp</in>
+        <in>A Node Too Far (Prac) - Copy.cpp</in>
+        <in>A Node Too Far (Prac).cpp</in>
+        <in>A Node Too Far.cpp</in>
+        <in>Bicoloring (2).cpp</in>
+        <in>CD.cpp</in>
+        <in>Dig the holes - Copy.cpp</in>
+        <in>Dig the holes.cpp</in>
+        <in>Emmogle_balance.cpp</in>
+        <in>Exibition - WA.cpp</in>
+        <in>FIBONNACI_FREEZE.cpp</in>
+        <in>Hour and Minute-unsolved.cpp</in>
+        <in>Khoj The Search.cpp</in>
+        <in>Number Chain (TLE).cpp</in>
+        <in>Prime_distance - TLE.cpp</in>
+        <in>Twine Prime.cpp</in>
+        <in>Word Index.cpp</in>
+        <in>age sort.cpp</in>
+        <in>armstrong_number.cpp</in>
+        <in>bachelor_arithmaric.cpp</in>
+        <in>banglawash.cpp</in>
+        <in>bankrupt_baker.cpp</in>
+        <in>big_integer_library.cpp</in>
+        <in>gcd_lcm (2).cpp</in>
+        <in>gcd_lcm V2.cpp</in>
+        <in>gcd_lcm.cpp</in>
+        <in>humble_number.cpp</in>
+        <in>jumping_mario.cpp</in>
+        <in>leap_year.cpp</in>
+        <in>magic_formula.cpp</in>
+        <in>maximum_gcd.cpp</in>
+        <in>maximum_sum - Copy.cpp</in>
+        <in>maximum_sum.cpp</in>
+        <in>molecular_mass - 2.cpp</in>
+        <in>molecular_mass.cpp</in>
+        <in>no_problem!!!.cpp</in>
+        <in>packing _for_holiday.cpp</in>
+        <in>prime_factorization.cpp</in>
+        <in>product.cpp</in>
+        <in>props_hunter.cpp</in>
+        <in>scores.cpp</in>
+        <in>secret_research.cpp</in>
+        <in>sieve_phi.cpp</in>
+        <in>snail.cpp</in>
+        <in>square_root.cpp</in>
+        <in>substr.cpp</in>
+        <in>tell_me_the_frequency 2.cpp</in>
+        <in>tell_me_the_frequency.cpp</in>
+        <in>temp (2) - Copy.cpp</in>
+        <in>temp (2).cpp</in>
+        <in>temp.cpp</in>
+        <in>vito's family.cpp</in>
+        <in>workspace.cpp</in>
+        <in>zapping.cpp</in>
+      </df>
+    </df>
+  </logicalFolder>
+  <projectmakefile></projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <developmentServer>localhost</developmentServer>
+        <platform>2</platform>
+      </toolsSet>
+      <compile>
+        <compiledirpicklist>
+          <compiledirpicklistitem>.</compiledirpicklistitem>
+          <compiledirpicklistitem>${AUTO_FOLDER}</compiledirpicklistitem>
+        </compiledirpicklist>
+        <compiledir>${AUTO_FOLDER}</compiledir>
+        <compilecommandpicklist>
+          <compilecommandpicklistitem>${MAKE} ${ITEM_NAME}.o</compilecommandpicklistitem>
+          <compilecommandpicklistitem>${AUTO_COMPILE}</compilecommandpicklistitem>
+        </compilecommandpicklist>
+        <compilecommand>${AUTO_COMPILE}</compilecommand>
+      </compile>
+      <dbx_gdbdebugger version="1">
+        <gdb_pathmaps>
+        </gdb_pathmaps>
+        <gdb_interceptlist>
+          <gdbinterceptoptions gdb_all="false" gdb_unhandled="true" gdb_unexpected="true"/>
+        </gdb_interceptlist>
+        <gdb_options>
+          <DebugOptions>
+          </DebugOptions>
+        </gdb_options>
+        <gdb_buildfirst gdb_buildfirst_overriden="false" gdb_buildfirst_old="false"/>
+      </dbx_gdbdebugger>
+      <nativedebugger version="1">
+        <engine>gdb</engine>
+      </nativedebugger>
+      <runprofile version="9">
+        <runcommandpicklist>
+          <runcommandpicklistitem>"${OUTPUT_PATH}"</runcommandpicklistitem>
+        </runcommandpicklist>
+        <runcommand>"${OUTPUT_PATH}"</runcommand>
+        <rundir>.</rundir>
+        <buildfirst>false</buildfirst>
+        <terminal-type>0</terminal-type>
+        <remove-instrumentation>0</remove-instrumentation>
+        <environment>
+        </environment>
+      </runprofile>
+    </conf>
+  </confs>
+</configurationDescriptor>

@@ -18,11 +18,7 @@ int main()
                 ans=((x-y)*4)+19+(x*4);
             }
             printf("Case %d: %d\n",l,ans);
-
-
         }
-
     }
-
     return 0;
 }

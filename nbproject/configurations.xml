@@ -1,0 +1,3336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df root="." name="0">
+      <df name="CodeChef Problem">
+        <in>Atoms in the Lab.cpp</in>
+        <in>Counting Bits.cpp</in>
+        <in>Easy Sorting.cpp</in>
+        <in>Strange operations.cpp</in>
+        <in>current - Copy.cpp</in>
+      </df>
+      <df name="CodeForces Problems">
+        <in>110A-Nearly Lucky Number.cpp</in>
+        <in>112A-Petya and Strings.cpp</in>
+        <in>118A-String Task.cpp</in>
+        <in>118B - Present from Lena.cpp</in>
+        <in>119A - Epic Game.cpp</in>
+        <in>122A-Lucky Divisions.cpp</in>
+        <in>131A- cAPS lOCK.cpp</in>
+        <in>133A-HQ9+.cpp</in>
+        <in>136A - Presents.cpp</in>
+        <in>141A - Amusing Joke.cpp</in>
+        <in>144A - Arrival of the General - Copy.cpp</in>
+        <in>144A - Arrival of the General.cpp</in>
+        <in>148A - Insomnia cure.cpp</in>
+        <in>149A - Business trip.cpp</in>
+        <in>151A - Soft Drinking.cpp</in>
+        <in>155A - I_love_%username%.cpp</in>
+        <in>158A - Next Round.cpp</in>
+        <in>158B - Taxi.cpp</in>
+        <in>160A-Twins.cpp</in>
+        <in>18A - Triangle.cpp</in>
+        <in>1A-Theatre Square.cpp</in>
+        <in>200B - Drinks.cpp</in>
+        <in>208A - Dubstep.cpp</in>
+        <in>214A - System of Equations.cpp</in>
+        <in>226A-Stones on the Table.cpp</in>
+        <in>228A - Is your horseshoe on the other hoof.cpp</in>
+        <in>230A - Dragons.cpp</in>
+        <in>230B - T-primes.cpp</in>
+        <in>231A-Team.cpp</in>
+        <in>236A-Boy or Girl.cpp</in>
+        <in>255B - Code Parsing.cpp</in>
+        <in>25A - IQ test.cpp</in>
+        <in>263A-Beautiful Matrix.cpp</in>
+        <in>266B - Queue at the School.cpp</in>
+        <in>268A - Games.cpp</in>
+        <in>268B - Buttons.cpp</in>
+        <in>270A - Fancy Fence.cpp</in>
+        <in>281A-Word Capitalization.cpp</in>
+        <in>282A-Bit++.cpp</in>
+        <in>313A - Ilya and Bank Account.cpp</in>
+        <in>318A - Even Odds.cpp</in>
+        <in>327A - Flipping Game.cpp</in>
+        <in>327B - Hungry Sequence.cpp</in>
+        <in>330A - Cakeminator.cpp</in>
+        <in>339A-Helpful Maths.cpp</in>
+        <in>339B - Xenia and Ringroad.cpp</in>
+        <in>344A - Magnets.cpp</in>
+        <in>349A - Cinema Line.cpp</in>
+        <in>368B - Sereja and Suffixes.cpp</in>
+        <in>379A - New Year Candles.cpp</in>
+        <in>37A - Towers.cpp</in>
+        <in>389B - Fox and Cross.cpp</in>
+        <in>405A - Gravity Flip.cpp</in>
+        <in>41A-Translation.cpp</in>
+        <in>427A - Police Recruits.cpp</in>
+        <in>431A - Black Square.cpp</in>
+        <in>432A - Choosing Teams.cpp</in>
+        <in>439A - Devu, the Singer and Churu, the Joker.cpp</in>
+        <in>441A - Valera and Antique Items.cpp</in>
+        <in>443A - Anton and Letters.cpp</in>
+        <in>448A - Rewards.cpp</in>
+        <in>451A - Game With Sticks.cpp</in>
+        <in>454A - Little Pony and Crystal Mine.cpp</in>
+        <in>456A - Laptops.cpp</in>
+        <in>459A - Pashmak and Garden.cpp</in>
+        <in>459B-Pashmak and Flowers.cpp</in>
+        <in>460A - Vasya and Socks.cpp</in>
+        <in>461A - Appleman and Toastman.cpp</in>
+        <in>462B - Appleman and Card Game.cpp</in>
+        <in>465B - Inbox (100500).cpp</in>
+        <in>466A - Cheap Travel.cpp</in>
+        <in>467A-George and Accommodation.cpp</in>
+        <in>467B - Fedor and New Game.cpp</in>
+        <in>469A - I Wanna Be the Guy.cpp</in>
+        <in>471A - MUH and Sticks.cpp</in>
+        <in>472A - Design Tutorial Learn from Math.cpp</in>
+        <in>474B - Worms.cpp</in>
+        <in>478A - Initial Bet.cpp</in>
+        <in>479A - Expression.cpp</in>
+        <in>486A - Calculating Function.cpp</in>
+        <in>489B - BerSU Ball.cpp</in>
+        <in>489C - Given Length and Sum of Digits....cpp</in>
+        <in>490A - Team Olympiad.cpp</in>
+        <in>492A - Vanya and Cubes.cpp</in>
+        <in>492B - Vanya and Lanterns.cpp</in>
+        <in>499B - Lecture.cpp</in>
+        <in>4A - WaterMelon.cpp</in>
+        <in>4C - Registration System.cpp</in>
+        <in>507A - Amr and Music.cpp</in>
+        <in>507B - Amr and Pins.cpp</in>
+        <in>509A - Maximum in Table.cpp</in>
+        <in>510A - Fox And Snake.cpp</in>
+        <in>513A - Game.cpp</in>
+        <in>514A - Chewbaсca and Number.cpp</in>
+        <in>519A - A and B and Chess.cpp</in>
+        <in>519B - A and B and Compilation Errors.cpp</in>
+        <in>520A - Pangram.cpp</in>
+        <in>527A - Playing with Paper.cpp</in>
+        <in>540A - Combination Lock.cpp</in>
+        <in>545B - Equidistant String.cpp</in>
+        <in>546A - Soldier and Bananas.cpp</in>
+        <in>550A - Two Substrings.cpp</in>
+        <in>551A - GukiZ and Contest.cpp</in>
+        <in>552B - Vanya and Books.cpp</in>
+        <in>556A - Case of the Zeros and Ones.cpp</in>
+        <in>558B -B - Amr and The Large Array.cpp</in>
+        <in>560A - Currency System in Geraldion.cpp</in>
+        <in>567A - Lineland Mail.cpp</in>
+        <in>569B - Inventory.cpp</in>
+        <in>570A - Elections.cpp</in>
+        <in>580A - Kefa and First Steps.cpp</in>
+        <in>581A - Vasya the Hipster.cpp</in>
+        <in>581B - Luxurious Houses.cpp</in>
+        <in>584A - Olesya and Rodion.cpp</in>
+        <in>588A - Duff and Meat.cpp</in>
+        <in>59A - Word.cpp</in>
+        <in>615A - Bulbs.cpp</in>
+        <in>617A - Elephant.cpp</in>
+        <in>61A - Ultra-Fast Mathematician.cpp</in>
+        <in>621A - Wet Shark and Odd and Even.cpp</in>
+        <in>630A - Again Twenty Five!.cpp</in>
+        <in>651B - Beautiful Paintings.cpp</in>
+        <in>652B - z-sort.cpp</in>
+        <in>659A - Round House.cpp</in>
+        <in>660A - Co-prime Array.cpp</in>
+        <in>660B - Sitting On the bus.cpp</in>
+        <in>670B - Game of Robots.cpp</in>
+        <in>672A-Summer Camp.cpp</in>
+        <in>672B-B - Different is Good.cpp</in>
+        <in>675A - Infinite Sequence.cpp</in>
+        <in>676A - Nicholas and Permutation.cpp</in>
+        <in>680B - Bear and Finding Criminals.cpp</in>
+        <in>682B - Alyona and Mex.cpp</in>
+        <in>686A - Free Ice Cream.cpp</in>
+        <in>688A - Opponents.cpp</in>
+        <in>688B - Lovely Palindromes.cpp</in>
+        <in>69A - Young Physicist.cpp</in>
+        <in>6A - Triangle.cpp</in>
+        <in>705A - Hulk.cpp</in>
+        <in>706A - Beru-taxi.cpp</in>
+        <in>707A - Brain's Photos.cpp</in>
+        <in>707B - Bakery.cpp</in>
+        <in>711A - Bus to Udayland.cpp</in>
+        <in>716A - Crazy Computer.cpp</in>
+        <in>719A - Vitya in the Countryside.cpp</in>
+        <in>71A - Way Too Long Words.cpp</in>
+        <in>721A - One-dimensional Japanese Crossword.cpp</in>
+        <in>723B - Text Document Analysis.cpp</in>
+        <in>731A - Night at the Museum - Optimum.cpp</in>
+        <in>731A - Night at the Museum.cpp</in>
+        <in>732B - Cormen --- The Best Friend Of a Man.cpp</in>
+        <in>734B - Anton and Digits.cpp</in>
+        <in>742A - Arpa’s hard exam and Mehrdad’s naive cheat.cpp</in>
+        <in>750A - New Year and Hurry.cpp</in>
+        <in>754A - Lesha and array splitting.cpp</in>
+        <in>761A - Dasha and Stairs.cpp</in>
+        <in>785A-Anton and Polyhedrons.cpp</in>
+        <in>791A - Bear and Big Brother.cpp</in>
+        <in>822A - I'm bored with life.cpp</in>
+        <in>842A - Kirill And The Game.cpp</in>
+        <in>842B - Gleb And Pizza.cpp</in>
+        <in>849A - Odds and Ends.cpp</in>
+        <in>851A - Arpa and a research in Mexican wave.cpp</in>
+        <in>938A - Word Correction.cpp</in>
+        <in>939A - Love Triangle.cpp</in>
+        <in>96A-Football.cpp</in>
+        <in>A.cpp</in>
+        <in>B.cpp</in>
+        <in>temp - Copy.cpp</in>
+      </df>
+      <df name="GeeksForGeeks Problem">
+        <df name="Interview Prep">
+          <df name="Array">
+            <in>Alternate Element of Array.cpp</in>
+            <in>Count of smaller elements.cpp</in>
+            <in>Count possible triangles.cpp</in>
+            <in>Laders in Array.cpp</in>
+            <in>Majority Element.cpp</in>
+            <in>Maximum Index.cpp</in>
+            <in>Maximum Sub Array.cpp</in>
+            <in>Min and Max Elemen in Array.cpp</in>
+            <in>Operating an Array.cpp</in>
+            <in>Remove duplicate elements from sorted Array.cpp</in>
+            <in>Reverse an Array.cpp</in>
+            <in>Rotate Array.cpp</in>
+            <in>Second Largest Element.cpp</in>
+            <in>Sum of array elements.cpp</in>
+            <in>Wave Array.cpp</in>
+            <in>template.cpp</in>
+          </df>
+          <df name="LinkedList">
+            <in>Manipulation with LinkedList.cpp</in>
+            <in>template.cpp</in>
+          </df>
+          <df name="Mathmatical">
+            <in>Add two fractions.cpp</in>
+            <in>Closest Number.cpp</in>
+            <in>Count Squares.cpp</in>
+            <in>Factorial of Number.cpp</in>
+            <in>GCD of Array.cpp</in>
+            <in>GCD of Two Numbers.cpp</in>
+            <in>Jumping Number.cpp</in>
+            <in>LCM and GCD.cpp</in>
+            <in>Print the Kth Digit.cpp</in>
+            <in>Series GP.cpp</in>
+            <in>template.cpp</in>
+          </df>
+          <df name="Puzzle">
+            <in>3 Divisors.cpp</in>
+            <in>Is Power.cpp</in>
+            <in>Is Square.cpp</in>
+            <in>Trailling Zeroes.cpp</in>
+            <in>template.cpp</in>
+          </df>
+          <df name="Stack">
+            <in>Balanced Paranthesis.cpp</in>
+            <in>template.cpp</in>
+          </df>
+          <df name="String">
+            <in>Anagram Pallindrome.cpp</in>
+            <in>Anagram String.cpp</in>
+            <in>Check for subsequence.cpp</in>
+            <in>Check if strings are rotations of each other or not.cpp</in>
+            <in>Extract Maximum.cpp</in>
+            <in>Good or Bad string.cpp</in>
+            <in>Merge two strings.cpp</in>
+            <in>Pallindrome.cpp</in>
+            <in>Reverse words in a given string Using String Class.cpp</in>
+            <in>Reverse words in a given string.cpp</in>
+            <in>Save Ironman.cpp</in>
+            <in>Sort String in Decreasing Order.cpp</in>
+            <in>URLify a given string.cpp</in>
+            <in>Upper case conversion.cpp</in>
+            <in>template.cpp</in>
+          </df>
+        </df>
+        <in>ease_the_array.cpp</in>
+        <in>even_distance_graph.cpp</in>
+        <in>even_is_greater_then_odd.cpp</in>
+        <in>find_second_largest_element.cpp</in>
+        <in>k_largest_element.cpp</in>
+        <in>kth_smallest_element.cpp</in>
+        <in>kth_smallest_element_in_matrix.cpp</in>
+        <in>minimum_product_of_k_element.cpp</in>
+        <in>move_all_negative_elements_to_end.cpp</in>
+        <in>move_all_zeros_at_the_end_(with_extra_array).cpp</in>
+        <in>move_all_zeros_at_the_end_(without_extra_array).cpp</in>
+        <in>prime_string.cpp</in>
+        <in>replace_every_array_element_by_multiplication_of_previous_and_next.cpp</in>
+        <in>rotation_count.cpp</in>
+        <in>smallest_and_second_smallest.cpp</in>
+        <in>stickler_thief.cpp</in>
+        <in>template.cpp</in>
+        <in>the_amazing_number.cpp</in>
+      </df>
+      <df name="HackerEarth">
+        <df name="DataStructures">
+          <df name="Array">
+            <in>Monk And Merry.cpp</in>
+            <in>Team Selection.cpp</in>
+            <in>tmp (copy).cpp</in>
+            <in>tmp.cpp</in>
+          </df>
+        </df>
+      </df>
+      <df name="HackerRank Problems">
+        <in>ACM ICPC Team.cpp</in>
+        <in>Alternating Characters.cpp</in>
+        <in>Anagram.cpp</in>
+        <in>Angry Professor.cpp</in>
+        <in>Append and Delete.cpp</in>
+        <in>Beautiful Binary String.cpp</in>
+        <in>Beautiful Days at the Movies.cpp</in>
+        <in>Beautiful Triplets.cpp</in>
+        <in>Between Two Sets.cpp</in>
+        <in>Big Sorting.cpp</in>
+        <in>Bigger is Greater.cpp</in>
+        <in>Birthday Chocolate.cpp</in>
+        <in>Bon Appétit.cpp</in>
+        <in>Breaking the Records.cpp</in>
+        <in>Caesar Cipher.cpp</in>
+        <in>CamelCase.cpp</in>
+        <in>Castle on the Grid.cpp</in>
+        <in>Cats and a Mouse.cpp</in>
+        <in>Chocolate Feast.cpp</in>
+        <in>Circular Array Rotation.cpp</in>
+        <in>Climbing the Leaderboard.cpp</in>
+        <in>Closest Numbers - Using Merge Sort.cpp</in>
+        <in>Closest Numbers - Using Quick Sort.cpp</in>
+        <in>Closest Numbers.cpp</in>
+        <in>Connected Cells in a Grid.cpp</in>
+        <in>Correctness and the Loop Invariant.cpp</in>
+        <in>Count Luck.cpp</in>
+        <in>Counter game.cpp</in>
+        <in>Counting Valleys.cpp</in>
+        <in>Cut the sticks.cpp</in>
+        <in>Day of the Programmer.cpp</in>
+        <in>Designer PDF Viewer.cpp</in>
+        <in>Divisible Sum Pairs.cpp</in>
+        <in>Drawing Book.cpp</in>
+        <in>Electronics Shop.cpp</in>
+        <in>Encryption.cpp</in>
+        <in>Equalize the Array.cpp</in>
+        <in>Find Digits.cpp</in>
+        <in>Flipping bits.cpp</in>
+        <in>Funny String.cpp</in>
+        <in>Game of Thrones - I.cpp</in>
+        <in>Gemstones.cpp</in>
+        <in>Greedy Florist.cpp</in>
+        <in>Grid Challenge.cpp</in>
+        <in>Gridland Metro.cpp</in>
+        <in>HackerRank in a String!.cpp</in>
+        <in>Hackerland Radio Transmitters.cpp</in>
+        <in>Ice Cream Parlor.cpp</in>
+        <in>Insertion Sort - Part 1.cpp</in>
+        <in>Insertion Sort - Part 2.cpp</in>
+        <in>Intro to Tutorial Challenges.cpp</in>
+        <in>Jim and the Orders.cpp</in>
+        <in>Jumping on the Clouds Revisited.cpp</in>
+        <in>KnightL on a Chessboard.cpp</in>
+        <in>Largest Permutation.cpp</in>
+        <in>Library Fine.cpp</in>
+        <in>Lisa's Workbook.cpp</in>
+        <in>Lonely Integer.cpp</in>
+        <in>Luck Balance.cpp</in>
+        <in>Making Anagrams.cpp</in>
+        <in>Marc's Cakewalk.cpp</in>
+        <in>Mark and Toys.cpp</in>
+        <in>Mars Exploration.cpp</in>
+        <in>Max Min.cpp</in>
+        <in>Maximizing XOR.cpp</in>
+        <in>Maximum Perimeter Triangle.cpp</in>
+        <in>Mini-Max Sum.cpp</in>
+        <in>Minimum Absolute Difference in an Array.cpp</in>
+        <in>Minimum Distances.cpp</in>
+        <in>Minimum Loss.cpp</in>
+        <in>Missing Numbers.cpp</in>
+        <in>Modified Kaprekar Numbers.cpp</in>
+        <in>Organizing Containers of Balls.cpp</in>
+        <in>Pairs.cpp</in>
+        <in>Palindrome Index.cpp</in>
+        <in>Pangrams.cpp</in>
+        <in>Permuting Two Arrays.cpp</in>
+        <in>Picking Numbers.cpp</in>
+        <in>Priyanka and Toys.cpp</in>
+        <in>Queue using Two Stacks.cpp</in>
+        <in>Quicksort 1 - Partition.cpp</in>
+        <in>Repeated String.cpp</in>
+        <in>Running Time of Algorithms.cpp</in>
+        <in>Sansa and XOR.cpp</in>
+        <in>Save the Prisoner!.cpp</in>
+        <in>Separate the Numbers.cpp</in>
+        <in>Sequence Equation.cpp</in>
+        <in>Sherlock and Anagrams.cpp</in>
+        <in>Sherlock and Array.cpp</in>
+        <in>Sherlock and Squares.cpp</in>
+        <in>Sherlock and The Beast.cpp</in>
+        <in>Sherlock and the Valid String - Using Array Mapping.cpp</in>
+        <in>Sherlock and the Valid String.cpp</in>
+        <in>Simple Text Editor.cpp</in>
+        <in>Sock Merchant.cpp</in>
+        <in>Sum vs XOR.cpp</in>
+        <in>Super Reduced String.cpp</in>
+        <in>Taum and B'day.cpp</in>
+        <in>The Great XOR.cpp</in>
+        <in>The Hurdle Race.cpp</in>
+        <in>The Love-Letter Mystery.cpp</in>
+        <in>Two Characters.cpp</in>
+        <in>Two Strings.cpp</in>
+        <in>Utopian Tree.cpp</in>
+        <in>Waiter.cpp</in>
+        <in>Xor-sequence.cpp</in>
+        <in>temp.cpp</in>
+      </df>
+      <df name="LightOJ Problems">
+        <in>1000 - Greetings from LightOJ.cpp</in>
+        <in>1001 - Opposite Task.cpp</in>
+        <in>1004 - Monkey Banana Problem.cpp</in>
+        <in>1006 - Hex-a-bonacci-TLE.cpp</in>
+        <in>1012 - Guilty Prince.cpp</in>
+        <in>1015 - Brush (I).cpp</in>
+        <in>1022 - Circle in Square.cpp</in>
+        <in>1023 - Discovering Permutations.cpp</in>
+        <in>1042 - Secret Origins.cpp</in>
+        <in>1045 - Digits of Factorial.cpp</in>
+        <in>1047 - Neighbor House.cpp</in>
+        <in>1053 - Higher Math.cpp</in>
+        <in>1069 - Lift.cpp</in>
+        <in>1080 - Binary Simulation.cpp</in>
+        <in>1082 - Array Queries.cpp</in>
+        <in>1093 - Ghajini.cpp</in>
+        <in>1107 - How Cow.cpp</in>
+        <in>1109 - False Ordering.cpp</in>
+        <in>1111 - Best Picnic Ever.cpp</in>
+        <in>1112 - Curious Robin Hood.cpp</in>
+        <in>1113 - Discover the Web.cpp</in>
+        <in>1133 - Array Simulation.cpp</in>
+        <in>1164 - Horrible Queries.cpp</in>
+        <in>1166 - Old Sorting.cpp</in>
+        <in>1182 - Parity.cpp</in>
+        <in>1202 - Bishops.cpp</in>
+        <in>1212 - Double Ended Queue.cpp</in>
+        <in>1214 - Large Division.cpp</in>
+        <in>1225 - Palindromic Numbers (II).cpp</in>
+        <in>1227 - Boiled Eggs.cpp</in>
+        <in>1231 - Coin Change (I).cpp</in>
+        <in>1294 - Positive Negative Sign.cpp</in>
+        <in>1338 - Hidden Secret!.cpp</in>
+        <in>1354 - IP Checking.cpp</in>
+        <in>1387 - Setu.cpp</in>
+        <in>1433 - Minimum Arc Distance.cpp</in>
+        <in>Guilty Prince - DFS.cpp</in>
+        <in>running.cpp</in>
+        <in>temp.cpp</in>
+        <in>workspance.cpp</in>
+      </df>
+      <df name="SPOJ Problem">
+        <in>AE00 - Rectangles.cpp</in>
+        <in>AMR12D - The Mirror of Galadriel - Copy.cpp</in>
+        <in>AMR12D - The Mirror of Galadriel.cpp</in>
+        <in>BWIDOW - Black Widow Rings.cpp</in>
+        <in>CADYDIST - Candy Distribution.cpp</in>
+        <in>CRZYSMKR - Crazy Smoker.cpp</in>
+        <in>HORRIBLE - Horrible Queries.cpp</in>
+        <in>WorkSpace - Copy.cpp</in>
+        <in>WorkSpace.cpp</in>
+      </df>
+      <df name="UVa Problems">
+        <in>0000 - Copy - Copy.cpp</in>
+        <in>0000.cpp</in>
+        <in>10009 - All Roads Lead Where.cpp</in>
+        <in>10026 - Shoemaker's Problem.cpp</in>
+        <in>10034 - Freckles.cpp</in>
+        <in>10050 - Hartals.cpp</in>
+        <in>10107.cpp</in>
+        <in>10116 - Robot Motion.cpp</in>
+        <in>10127 - Ones.cpp</in>
+        <in>10130 - SuperSale.cpp</in>
+        <in>10141.cpp</in>
+        <in>10179.cpp</in>
+        <in>10189.cpp</in>
+        <in>10200.cpp</in>
+        <in>10212 - The Last Non-zero Digit..cpp</in>
+        <in>10222.cpp</in>
+        <in>10282.cpp</in>
+        <in>10293.cpp</in>
+        <in>10295.cpp</in>
+        <in>10305 - Ordering Tasks.cpp</in>
+        <in>10311.cpp</in>
+        <in>10336 - Rank the Languages.cpp</in>
+        <in>10338.cpp</in>
+        <in>10347.cpp</in>
+        <in>10392 - Factoring Large Numbers.cpp</in>
+        <in>10409 - Copy.cpp</in>
+        <in>10409.cpp</in>
+        <in>10420.cpp</in>
+        <in>10487.cpp</in>
+        <in>10489 - Boxes of Chocolates.cpp</in>
+        <in>10490.cpp</in>
+        <in>10499.cpp</in>
+        <in>10554.cpp</in>
+        <in>10583 - Ubiquitous Religions.cpp</in>
+        <in>10608 - Friends.cpp</in>
+        <in>10611 - Copy.cpp</in>
+        <in>10611.cpp</in>
+        <in>10616 - Divisible Group Sums.cpp</in>
+        <in>1062.cpp</in>
+        <in>10650.cpp</in>
+        <in>10653 - Bombs! NO they are Mines!!.cpp</in>
+        <in>10664 - Luggage.cpp</in>
+        <in>10679 - Copy (2).cpp</in>
+        <in>10679 - Copy (Mong Ting).cpp</in>
+        <in>10679 - Copy.cpp</in>
+        <in>10679.cpp</in>
+        <in>10703.cpp</in>
+        <in>10730.cpp</in>
+        <in>10763 - Foreign Exchange.cpp</in>
+        <in>10789.cpp</in>
+        <in>10815.cpp</in>
+        <in>10855.cpp</in>
+        <in>10879.cpp</in>
+        <in>10905 - Copy.cpp</in>
+        <in>10905.cpp</in>
+        <in>10919 - Copy.cpp</in>
+        <in>10919.cpp</in>
+        <in>10948.cpp</in>
+        <in>10954 - Add All.cpp</in>
+        <in>10959 - The Party, Part I.cpp</in>
+        <in>10976.cpp</in>
+        <in>10986-Sending email.cpp</in>
+        <in>11057 - Copy.cpp</in>
+        <in>11057.cpp</in>
+        <in>11060 - Beverages.cpp</in>
+        <in>11062.cpp</in>
+        <in>11078.cpp</in>
+        <in>11150.cpp</in>
+        <in>11192.cpp</in>
+        <in>11221 - Copy.cpp</in>
+        <in>11221.cpp</in>
+        <in>11222.cpp</in>
+        <in>11228 - Transportation system.cpp</in>
+        <in>11233.cpp</in>
+        <in>11242.cpp</in>
+        <in>11247.cpp</in>
+        <in>11286.cpp</in>
+        <in>11292 - Dragon of Loowater.cpp</in>
+        <in>11340 - Copy.cpp</in>
+        <in>11340.cpp</in>
+        <in>11349.cpp</in>
+        <in>11360-Have Fun With Matrix.cpp</in>
+        <in>11389 - The Bus Driver Problem.cpp</in>
+        <in>11541.cpp</in>
+        <in>11557.cpp</in>
+        <in>11588.cpp</in>
+        <in>11608 - Copy.cpp</in>
+        <in>11608.cpp</in>
+        <in>11631 - Dark roads.cpp</in>
+        <in>11677.cpp</in>
+        <in>11713.cpp</in>
+        <in>11716.cpp</in>
+        <in>11747 - Heavy Cycle Edges.cpp</in>
+        <in>11774 .cpp</in>
+        <in>1180.cpp</in>
+        <in>11805.cpp</in>
+        <in>11824.cpp</in>
+        <in>11831 - Sticker Collector Robot.cpp</in>
+        <in>11850.cpp</in>
+        <in>11877.cpp</in>
+        <in>11878.cpp</in>
+        <in>11902 - Dominator.cpp</in>
+        <in>11917.cpp</in>
+        <in>11942 -2.cpp</in>
+        <in>11942.cpp</in>
+        <in>11945.cpp</in>
+        <in>11984.cpp</in>
+        <in>12049.cpp</in>
+        <in>12068.cpp</in>
+        <in>12149.cpp</in>
+        <in>12150.cpp</in>
+        <in>12187.cpp</in>
+        <in>12239.cpp</in>
+        <in>12243.cpp</in>
+        <in>1225 - Copy.cpp</in>
+        <in>1225.cpp</in>
+        <in>12290.cpp</in>
+        <in>1230.cpp</in>
+        <in>1237.cpp</in>
+        <in>12405.cpp</in>
+        <in>12442 - Forwarding Emails.cpp</in>
+        <in>12488.cpp</in>
+        <in>12503 - Copy.cpp</in>
+        <in>12503.cpp</in>
+        <in>12541.cpp</in>
+        <in>12543.cpp</in>
+        <in>12554.cpp</in>
+        <in>12592.cpp</in>
+        <in>1260 (2).cpp</in>
+        <in>1260.cpp</in>
+        <in>12725.cpp</in>
+        <in>12751.cpp</in>
+        <in>12798.cpp</in>
+        <in>12896.cpp</in>
+        <in>12897 - Copy.cpp</in>
+        <in>12897.cpp</in>
+        <in>12952 - Copy.cpp</in>
+        <in>12952.cpp</in>
+        <in>13012.cpp</in>
+        <in>13034.cpp</in>
+        <in>1583.cpp</in>
+        <in>160 - Factors and Factorials.cpp</in>
+        <in>195.cpp</in>
+        <in>256.cpp</in>
+        <in>260 - Il Gioco dell'X.cpp</in>
+        <in>352 - The Seasonal War.cpp</in>
+        <in>353.cpp</in>
+        <in>383 - Shipping Routes.cpp</in>
+        <in>394.cpp</in>
+        <in>406.cpp</in>
+        <in>409.cpp</in>
+        <in>409=2.cpp</in>
+        <in>414.cpp</in>
+        <in>417-Unsolved.cpp</in>
+        <in>429 - Word Transformation.cpp</in>
+        <in>439 - Knight Moves.cpp</in>
+        <in>471 - Magic Numbers.cpp</in>
+        <in>471-TLE.cpp</in>
+        <in>483.cpp</in>
+        <in>484.cpp</in>
+        <in>489.cpp</in>
+        <in>500!.cpp</in>
+        <in>514.cpp</in>
+        <in>541.cpp</in>
+        <in>543.cpp</in>
+        <in>562 - Dividing coins.cpp</in>
+        <in>567 - Risk.cpp</in>
+        <in>572 - Oil Deposits.cpp</in>
+        <in>573.cpp</in>
+        <in>575.cpp</in>
+        <in>579.cpp</in>
+        <in>583.cpp</in>
+        <in>627 - The Net.cpp</in>
+        <in>644 - Immediate Decodability.cpp</in>
+        <in>644.cpp</in>
+        <in>661.cpp</in>
+        <in>671 - Copy.cpp</in>
+        <in>671.cpp</in>
+        <in>673 - Copy.cpp</in>
+        <in>673.cpp</in>
+        <in>674 - Coin Change.cpp</in>
+        <in>686.cpp</in>
+        <in>725 - unsolved - Copy.cpp</in>
+        <in>725 - unsolved.cpp</in>
+        <in>725.cpp</in>
+        <in>727.cpp</in>
+        <in>755 - 487--3279.cpp</in>
+        <in>762 - We Ship Cheap.cpp</in>
+        <in>784 - Maze Exploration.cpp</in>
+        <in>793 - Network Connections.cpp</in>
+        <in>821 - Page Hopping.cpp</in>
+        <in>871 - Counting Cells in a Blob.cpp</in>
+        <in>895.cpp</in>
+        <in>902 - Copy-TLE.cpp</in>
+        <in>902 - Copy.cpp</in>
+        <in>902.cpp</in>
+        <in>908 - Re-connecting Computer Sites.cpp</in>
+        <in>924 - Spreading The News.cpp</in>
+        <in>993 - Product of digits - Copy.cpp</in>
+        <in>993 - Product of digits.cpp</in>
+        <in>A Node Too Far (Prac) - Copy.cpp</in>
+        <in>A Node Too Far (Prac).cpp</in>
+        <in>A Node Too Far.cpp</in>
+        <in>Bicoloring (2).cpp</in>
+        <in>CD.cpp</in>
+        <in>Dig the holes - Copy.cpp</in>
+        <in>Dig the holes.cpp</in>
+        <in>Emmogle_balance.cpp</in>
+        <in>Exibition - WA.cpp</in>
+        <in>FIBONNACI_FREEZE.cpp</in>
+        <in>Hour and Minute-unsolved.cpp</in>
+        <in>Khoj The Search.cpp</in>
+        <in>Number Chain (TLE).cpp</in>
+        <in>Prime_distance - TLE.cpp</in>
+        <in>Twine Prime.cpp</in>
+        <in>Word Index.cpp</in>
+        <in>age sort.cpp</in>
+        <in>armstrong_number.cpp</in>
+        <in>bachelor_arithmaric.cpp</in>
+        <in>banglawash.cpp</in>
+        <in>bankrupt_baker.cpp</in>
+        <in>big_integer_library.cpp</in>
+        <in>gcd_lcm (2).cpp</in>
+        <in>gcd_lcm V2.cpp</in>
+        <in>gcd_lcm.cpp</in>
+        <in>humble_number.cpp</in>
+        <in>jumping_mario.cpp</in>
+        <in>leap_year.cpp</in>
+        <in>magic_formula.cpp</in>
+        <in>maximum_gcd.cpp</in>
+        <in>maximum_sum - Copy.cpp</in>
+        <in>maximum_sum.cpp</in>
+        <in>molecular_mass - 2.cpp</in>
+        <in>molecular_mass.cpp</in>
+        <in>no_problem!!!.cpp</in>
+        <in>packing _for_holiday.cpp</in>
+        <in>prime_factorization.cpp</in>
+        <in>product.cpp</in>
+        <in>props_hunter.cpp</in>
+        <in>scores.cpp</in>
+        <in>secret_research.cpp</in>
+        <in>sieve_phi.cpp</in>
+        <in>snail.cpp</in>
+        <in>square_root.cpp</in>
+        <in>substr.cpp</in>
+        <in>tell_me_the_frequency 2.cpp</in>
+        <in>tell_me_the_frequency.cpp</in>
+        <in>temp (2) - Copy.cpp</in>
+        <in>temp (2).cpp</in>
+        <in>temp.cpp</in>
+        <in>vito's family.cpp</in>
+        <in>workspace.cpp</in>
+        <in>zapping.cpp</in>
+      </df>
+    </df>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>nbproject/private/launcher.properties</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceFolderFilter>^(nbproject)$</sourceFolderFilter>
+  <sourceRootList>
+    <Elem>.</Elem>
+  </sourceRootList>
+  <projectmakefile></projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>false</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <codeAssistance>
+      </codeAssistance>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>.</buildCommandWorkingDir>
+          <buildCommand>echo build</buildCommand>
+          <cleanCommand>echo clean</cleanCommand>
+          <executablePath>HackerRank Problems/Beautiful Binary String</executablePath>
+        </makeTool>
+        <preBuild>
+          <preBuildCommandWorkingDir>.</preBuildCommandWorkingDir>
+          <preBuildCommand></preBuildCommand>
+        </preBuild>
+      </makefileType>
+      <item path="CodeChef Problem/Atoms in the Lab.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeChef Problem/Counting Bits.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CodeChef Problem/Easy Sorting.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CodeChef Problem/Strange operations.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeChef Problem/current - Copy.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/110A-Nearly Lucky Number.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/112A-Petya and Strings.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/118A-String Task.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/118B - Present from Lena.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/119A - Epic Game.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/122A-Lucky Divisions.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/131A- cAPS lOCK.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/133A-HQ9+.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CodeForces Problems/136A - Presents.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/141A - Amusing Joke.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/144A - Arrival of the General - Copy.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/144A - Arrival of the General.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/148A - Insomnia cure.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/149A - Business trip.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/151A - Soft Drinking.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/155A - I_love_%username%.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/158A - Next Round.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/158B - Taxi.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/160A-Twins.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CodeForces Problems/18A - Triangle.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/1A-Theatre Square.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/200B - Drinks.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/208A - Dubstep.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/214A - System of Equations.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/226A-Stones on the Table.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/228A - Is your horseshoe on the other hoof.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/230A - Dragons.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/230B - T-primes.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/231A-Team.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CodeForces Problems/236A-Boy or Girl.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/255B - Code Parsing.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/25A - IQ test.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/263A-Beautiful Matrix.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/266B - Queue at the School.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/268A - Games.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/268B - Buttons.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/270A - Fancy Fence.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/281A-Word Capitalization.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/282A-Bit++.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CodeForces Problems/313A - Ilya and Bank Account.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/318A - Even Odds.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/327A - Flipping Game.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/327B - Hungry Sequence.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/330A - Cakeminator.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/339A-Helpful Maths.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/339B - Xenia and Ringroad.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/344A - Magnets.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/349A - Cinema Line.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/368B - Sereja and Suffixes.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/379A - New Year Candles.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/37A - Towers.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/389B - Fox and Cross.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/405A - Gravity Flip.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/41A-Translation.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/427A - Police Recruits.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/431A - Black Square.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/432A - Choosing Teams.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/439A - Devu, the Singer and Churu, the Joker.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/441A - Valera and Antique Items.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/443A - Anton and Letters.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/448A - Rewards.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/451A - Game With Sticks.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/454A - Little Pony and Crystal Mine.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/456A - Laptops.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/459A - Pashmak and Garden.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/459B-Pashmak and Flowers.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/460A - Vasya and Socks.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/461A - Appleman and Toastman.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/462B - Appleman and Card Game.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/465B - Inbox (100500).cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/466A - Cheap Travel.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/467A-George and Accommodation.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/467B - Fedor and New Game.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/469A - I Wanna Be the Guy.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/471A - MUH and Sticks.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/472A - Design Tutorial Learn from Math.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/474B - Worms.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/478A - Initial Bet.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/479A - Expression.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/486A - Calculating Function.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/489B - BerSU Ball.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/489C - Given Length and Sum of Digits....cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/490A - Team Olympiad.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/492A - Vanya and Cubes.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/492B - Vanya and Lanterns.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/499B - Lecture.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/4A - WaterMelon.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/4C - Registration System.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/507A - Amr and Music.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/507B - Amr and Pins.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/509A - Maximum in Table.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/510A - Fox And Snake.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/513A - Game.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/514A - Chewbaсca and Number.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/519A - A and B and Chess.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/519B - A and B and Compilation Errors.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/520A - Pangram.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/527A - Playing with Paper.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/540A - Combination Lock.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/545B - Equidistant String.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/546A - Soldier and Bananas.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/550A - Two Substrings.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/551A - GukiZ and Contest.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/552B - Vanya and Books.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/556A - Case of the Zeros and Ones.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/558B -B - Amr and The Large Array.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/560A - Currency System in Geraldion.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/567A - Lineland Mail.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/569B - Inventory.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/570A - Elections.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/580A - Kefa and First Steps.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/581A - Vasya the Hipster.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/581B - Luxurious Houses.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/584A - Olesya and Rodion.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/588A - Duff and Meat.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/59A - Word.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CodeForces Problems/615A - Bulbs.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/617A - Elephant.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/61A - Ultra-Fast Mathematician.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/621A - Wet Shark and Odd and Even.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/630A - Again Twenty Five!.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/651B - Beautiful Paintings.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/652B - z-sort.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/659A - Round House.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/660A - Co-prime Array.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/660B - Sitting On the bus.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/670B - Game of Robots.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/672A-Summer Camp.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/672B-B - Different is Good.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/675A - Infinite Sequence.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/676A - Nicholas and Permutation.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/680B - Bear and Finding Criminals.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/682B - Alyona and Mex.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/686A - Free Ice Cream.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/688A - Opponents.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/688B - Lovely Palindromes.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/69A - Young Physicist.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/6A - Triangle.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/705A - Hulk.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/706A - Beru-taxi.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/707A - Brain&apos;s Photos.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/707B - Bakery.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/711A - Bus to Udayland.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/716A - Crazy Computer.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/719A - Vitya in the Countryside.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/71A - Way Too Long Words.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/721A - One-dimensional Japanese Crossword.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/723B - Text Document Analysis.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/731A - Night at the Museum - Optimum.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/731A - Night at the Museum.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/732B - Cormen --- The Best Friend Of a Man.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/734B - Anton and Digits.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/742A - Arpa’s hard exam and Mehrdad’s naive cheat.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/750A - New Year and Hurry.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/754A - Lesha and array splitting.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/761A - Dasha and Stairs.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/785A-Anton and Polyhedrons.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/791A - Bear and Big Brother.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/822A - I&apos;m bored with life.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/842A - Kirill And The Game.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/842B - Gleb And Pizza.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/849A - Odds and Ends.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/851A - Arpa and a research in Mexican wave.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/938A - Word Correction.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/939A - Love Triangle.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/96A-Football.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CodeForces Problems/A.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CodeForces Problems/B.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CodeForces Problems/temp - Copy.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/Array/Alternate Element of Array.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/Array/Count of smaller elements.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/Array/Count possible triangles.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/Array/Laders in Array.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/Array/Majority Element.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/Array/Maximum Index.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/Array/Maximum Sub Array.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/Array/Min and Max Elemen in Array.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/Array/Operating an Array.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/Array/Remove duplicate elements from sorted Array.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/Array/Reverse an Array.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/Array/Rotate Array.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/Array/Second Largest Element.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/Array/Sum of array elements.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/Array/Wave Array.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/Array/template.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/LinkedList/Manipulation with LinkedList.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/LinkedList/template.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/Mathmatical/Add two fractions.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/Mathmatical/Closest Number.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/Mathmatical/Count Squares.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/Mathmatical/Factorial of Number.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/Mathmatical/GCD of Array.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/Mathmatical/GCD of Two Numbers.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/Mathmatical/Jumping Number.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/Mathmatical/LCM and GCD.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/Mathmatical/Print the Kth Digit.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/Mathmatical/Series GP.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/Mathmatical/template.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/Puzzle/3 Divisors.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/Puzzle/Is Power.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/Puzzle/Is Square.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/Puzzle/Trailling Zeroes.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/Puzzle/template.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/Stack/Balanced Paranthesis.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/Stack/template.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/String/Anagram Pallindrome.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/String/Anagram String.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/String/Check for subsequence.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/String/Check if strings are rotations of each other or not.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/String/Extract Maximum.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/String/Good or Bad string.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/String/Merge two strings.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/String/Pallindrome.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/String/Reverse words in a given string Using String Class.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/String/Reverse words in a given string.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/String/Save Ironman.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/String/Sort String in Decreasing Order.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/String/URLify a given string.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/String/Upper case conversion.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/Interview Prep/String/template.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/ease_the_array.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/even_distance_graph.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/even_is_greater_then_odd.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/find_second_largest_element.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/k_largest_element.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/kth_smallest_element.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/kth_smallest_element_in_matrix.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/minimum_product_of_k_element.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/move_all_negative_elements_to_end.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/move_all_zeros_at_the_end_(with_extra_array).cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/move_all_zeros_at_the_end_(without_extra_array).cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/prime_string.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/replace_every_array_element_by_multiplication_of_previous_and_next.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/rotation_count.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/smallest_and_second_smallest.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/stickler_thief.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/template.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="GeeksForGeeks Problem/the_amazing_number.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerEarth/DataStructures/Array/Monk And Merry.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerEarth/DataStructures/Array/Team Selection.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerEarth/DataStructures/Array/tmp (copy).cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerEarth/DataStructures/Array/tmp.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/ACM ICPC Team.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Alternating Characters.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Anagram.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Angry Professor.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Append and Delete.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Beautiful Binary String.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Beautiful Days at the Movies.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Beautiful Triplets.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Between Two Sets.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Big Sorting.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Bigger is Greater.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Birthday Chocolate.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Bon Appétit.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Breaking the Records.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Caesar Cipher.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/CamelCase.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Castle on the Grid.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Cats and a Mouse.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Chocolate Feast.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Circular Array Rotation.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Climbing the Leaderboard.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Closest Numbers - Using Merge Sort.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Closest Numbers - Using Quick Sort.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Closest Numbers.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Connected Cells in a Grid.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Correctness and the Loop Invariant.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Count Luck.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Counter game.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Counting Valleys.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Cut the sticks.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Day of the Programmer.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Designer PDF Viewer.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Divisible Sum Pairs.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Drawing Book.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Electronics Shop.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Encryption.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Equalize the Array.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Find Digits.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Flipping bits.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Funny String.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Game of Thrones - I.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Gemstones.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Greedy Florist.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Grid Challenge.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Gridland Metro.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/HackerRank in a String!.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Hackerland Radio Transmitters.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Ice Cream Parlor.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Insertion Sort - Part 1.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Insertion Sort - Part 2.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Intro to Tutorial Challenges.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Jim and the Orders.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Jumping on the Clouds Revisited.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/KnightL on a Chessboard.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Largest Permutation.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Library Fine.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Lisa&apos;s Workbook.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Lonely Integer.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Luck Balance.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Making Anagrams.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Marc&apos;s Cakewalk.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Mark and Toys.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Mars Exploration.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Max Min.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Maximizing XOR.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Maximum Perimeter Triangle.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Mini-Max Sum.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Minimum Absolute Difference in an Array.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Minimum Distances.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Minimum Loss.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Missing Numbers.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Modified Kaprekar Numbers.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Organizing Containers of Balls.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Pairs.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Palindrome Index.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Pangrams.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Permuting Two Arrays.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Picking Numbers.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Priyanka and Toys.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Queue using Two Stacks.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Quicksort 1 - Partition.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Repeated String.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Running Time of Algorithms.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Sansa and XOR.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Save the Prisoner!.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Separate the Numbers.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Sequence Equation.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Sherlock and Anagrams.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Sherlock and Array.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Sherlock and Squares.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Sherlock and The Beast.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Sherlock and the Valid String - Using Array Mapping.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Sherlock and the Valid String.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Simple Text Editor.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Sock Merchant.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Sum vs XOR.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Super Reduced String.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Taum and B&apos;day.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/The Great XOR.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/The Hurdle Race.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/The Love-Letter Mystery.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Two Characters.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Two Strings.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Utopian Tree.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Waiter.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="HackerRank Problems/Xor-sequence.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="HackerRank Problems/temp.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="LightOJ Problems/1000 - Greetings from LightOJ.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="LightOJ Problems/1001 - Opposite Task.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="LightOJ Problems/1004 - Monkey Banana Problem.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="LightOJ Problems/1006 - Hex-a-bonacci-TLE.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="LightOJ Problems/1012 - Guilty Prince.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="LightOJ Problems/1015 - Brush (I).cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="LightOJ Problems/1022 - Circle in Square.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="LightOJ Problems/1023 - Discovering Permutations.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="LightOJ Problems/1042 - Secret Origins.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="LightOJ Problems/1045 - Digits of Factorial.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="LightOJ Problems/1047 - Neighbor House.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="LightOJ Problems/1053 - Higher Math.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="LightOJ Problems/1069 - Lift.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="LightOJ Problems/1080 - Binary Simulation.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="LightOJ Problems/1082 - Array Queries.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="LightOJ Problems/1093 - Ghajini.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="LightOJ Problems/1107 - How Cow.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="LightOJ Problems/1109 - False Ordering.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="LightOJ Problems/1111 - Best Picnic Ever.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="LightOJ Problems/1112 - Curious Robin Hood.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="LightOJ Problems/1113 - Discover the Web.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="LightOJ Problems/1133 - Array Simulation.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="LightOJ Problems/1164 - Horrible Queries.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="LightOJ Problems/1166 - Old Sorting.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="LightOJ Problems/1182 - Parity.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="LightOJ Problems/1202 - Bishops.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="LightOJ Problems/1212 - Double Ended Queue.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="LightOJ Problems/1214 - Large Division.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="LightOJ Problems/1225 - Palindromic Numbers (II).cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="LightOJ Problems/1227 - Boiled Eggs.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="LightOJ Problems/1231 - Coin Change (I).cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="LightOJ Problems/1294 - Positive Negative Sign.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="LightOJ Problems/1338 - Hidden Secret!.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="LightOJ Problems/1354 - IP Checking.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="LightOJ Problems/1387 - Setu.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="LightOJ Problems/1433 - Minimum Arc Distance.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="LightOJ Problems/Guilty Prince - DFS.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="LightOJ Problems/running.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="LightOJ Problems/temp.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="LightOJ Problems/workspance.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SPOJ Problem/AE00 - Rectangles.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SPOJ Problem/AMR12D - The Mirror of Galadriel - Copy.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="SPOJ Problem/AMR12D - The Mirror of Galadriel.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="SPOJ Problem/BWIDOW - Black Widow Rings.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="SPOJ Problem/CADYDIST - Candy Distribution.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="SPOJ Problem/CRZYSMKR - Crazy Smoker.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="SPOJ Problem/HORRIBLE - Horrible Queries.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="SPOJ Problem/WorkSpace - Copy.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SPOJ Problem/WorkSpace.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/0000 - Copy - Copy.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/0000.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10009 - All Roads Lead Where.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/10026 - Shoemaker&apos;s Problem.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/10034 - Freckles.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10050 - Hartals.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10107.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10116 - Robot Motion.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/10127 - Ones.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10130 - SuperSale.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10141.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10179.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10189.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10200.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10212 - The Last Non-zero Digit..cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/10222.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10282.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10293.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10295.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10305 - Ordering Tasks.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/10311.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10336 - Rank the Languages.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/10338.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10347.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10392 - Factoring Large Numbers.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/10409 - Copy.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10409.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10420.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10487.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10489 - Boxes of Chocolates.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/10490.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10499.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10554.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10583 - Ubiquitous Religions.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/10608 - Friends.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10611 - Copy.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10611.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10616 - Divisible Group Sums.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/1062.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10650.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10653 - Bombs! NO they are Mines!!.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/10664 - Luggage.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10679 - Copy (2).cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10679 - Copy (Mong Ting).cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/10679 - Copy.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10679.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10703.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10730.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10763 - Foreign Exchange.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/10789.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10815.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10855.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10879.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10905 - Copy.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10905.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10919 - Copy.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10919.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10948.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10954 - Add All.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10959 - The Party, Part I.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/10976.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/10986-Sending email.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/11057 - Copy.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/11057.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/11060 - Beverages.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/11062.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/11078.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/11150.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/11192.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/11221 - Copy.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/11221.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/11222.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/11228 - Transportation system.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/11233.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/11242.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/11247.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/11286.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/11292 - Dragon of Loowater.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/11340 - Copy.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/11340.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/11349.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/11360-Have Fun With Matrix.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/11389 - The Bus Driver Problem.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/11541.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/11557.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/11588.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/11608 - Copy.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/11608.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/11631 - Dark roads.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/11677.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/11713.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/11716.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/11747 - Heavy Cycle Edges.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/11774 .cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/1180.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/11805.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/11824.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/11831 - Sticker Collector Robot.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/11850.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/11877.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/11878.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/11902 - Dominator.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/11917.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/11942 -2.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/11942.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/11945.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/11984.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/12049.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/12068.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/12149.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/12150.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/12187.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/12239.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/12243.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/1225 - Copy.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/1225.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/12290.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/1230.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/1237.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/12405.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/12442 - Forwarding Emails.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/12488.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/12503 - Copy.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/12503.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/12541.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/12543.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/12554.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/12592.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/1260 (2).cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/1260.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/12725.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/12751.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/12798.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/12896.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/12897 - Copy.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/12897.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/12952 - Copy.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/12952.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/13012.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/13034.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/1583.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/160 - Factors and Factorials.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/195.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/256.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/260 - Il Gioco dell&apos;X.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/352 - The Seasonal War.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/353.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/383 - Shipping Routes.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/394.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/406.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/409.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/409=2.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/414.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/417-Unsolved.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/429 - Word Transformation.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/439 - Knight Moves.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/471 - Magic Numbers.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/471-TLE.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/483.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/484.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/489.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/500!.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/514.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/541.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/543.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/562 - Dividing coins.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/567 - Risk.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/572 - Oil Deposits.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/573.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/575.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/579.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/583.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/627 - The Net.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/644 - Immediate Decodability.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/644.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/661.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/671 - Copy.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/671.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/673 - Copy.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/673.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/674 - Coin Change.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/686.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/725 - unsolved - Copy.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/725 - unsolved.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/725.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/727.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/755 - 487--3279.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/762 - We Ship Cheap.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/784 - Maze Exploration.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/793 - Network Connections.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/821 - Page Hopping.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/871 - Counting Cells in a Blob.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/895.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/902 - Copy-TLE.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/902 - Copy.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/902.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/908 - Re-connecting Computer Sites.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/924 - Spreading The News.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/993 - Product of digits - Copy.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/993 - Product of digits.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/A Node Too Far (Prac) - Copy.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/A Node Too Far (Prac).cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/A Node Too Far.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/Bicoloring (2).cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/CD.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/Dig the holes - Copy.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/Dig the holes.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/Emmogle_balance.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/Exibition - WA.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/FIBONNACI_FREEZE.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/Hour and Minute-unsolved.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/Khoj The Search.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/Number Chain (TLE).cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/Prime_distance - TLE.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/Twine Prime.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/Word Index.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/age sort.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/armstrong_number.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/bachelor_arithmaric.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/banglawash.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/bankrupt_baker.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/big_integer_library.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/gcd_lcm (2).cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/gcd_lcm V2.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/gcd_lcm.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/humble_number.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/jumping_mario.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/leap_year.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/magic_formula.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/maximum_gcd.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/maximum_sum - Copy.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/maximum_sum.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/molecular_mass - 2.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/molecular_mass.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/no_problem!!!.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/packing _for_holiday.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/prime_factorization.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/product.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/props_hunter.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/scores.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/secret_research.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/sieve_phi.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/snail.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/square_root.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/substr.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/tell_me_the_frequency 2.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/tell_me_the_frequency.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="UVa Problems/temp (2) - Copy.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/temp (2).cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/temp.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/vito&apos;s family.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/workspace.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="UVa Problems/zapping.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
