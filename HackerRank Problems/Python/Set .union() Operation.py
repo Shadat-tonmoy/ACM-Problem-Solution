@@ -1,6 +1,0 @@
-n = int(raw_input())
-set1 = set(map(int,raw_input().split()))
-m = int(raw_input())
-set2 = set(map(int,raw_input().split()))
-unionSet = set1.union(set2)
-print len(unionSet)

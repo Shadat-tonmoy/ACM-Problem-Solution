@@ -1,6 +1,0 @@
-n1 = int(raw_input())
-set1 = set(map(int,raw_input().split()))
-n2 = int(raw_input())
-set2 = set(map(int,raw_input().split()))
-intersectSet = set1.intersection(set2)
-print (len(intersectSet))
